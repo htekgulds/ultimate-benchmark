@@ -41,9 +41,7 @@ Colunms used:
 duration: 30s
 users: 1000
 
-#### Results
-
-##### Java - Spring Boot (JVM):
+#### Java - Spring Boot (JVM):
 
 failed requests: 0
 successful requests:        28840       29073       28930       avg: 28814
@@ -53,7 +51,7 @@ request durations max:      1.38s       988.09ms    764.85ms    avg: 930.31ms
 request durations p(95):    81.51ms     79.12ms     152.87ms    avg: 104.5ms
 
 
-##### Java - Spring Boot Reactive (JVM):
+#### Java - Spring Boot Reactive (JVM):
 
 failed requests: 0
 successful requests:        6723        5815        5508        avg: 6015
