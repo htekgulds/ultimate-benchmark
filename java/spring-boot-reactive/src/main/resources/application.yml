@@ -1,6 +1,6 @@
 spring:
   application:
-    name: Spring Boot
+    name: Spring Boot Reactive
 
   r2dbc:
     url: r2dbc:postgresql://localhost:5432/dvdrental
