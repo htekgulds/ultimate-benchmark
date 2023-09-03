@@ -22,9 +22,9 @@ Every test will be run 3 times and results will be average of that.
 
 ### Startup
 
-Java - Spring Boot (JVM): 2.80~s
+**Java - Spring Boot (JVM):** 2.80~s
 
-Java - Spring Boot Reactive (JVM): 1.60~s
+**Java - Spring Boot Reactive (JVM):** 1.60~s
 
 ### Films
 
