@@ -1,0 +1,11 @@
+spring:
+  application:
+    name: Spring Boot
+
+  r2dbc:
+    url: r2dbc:postgresql://localhost:5432/dvdrental
+    username: postgres
+    password: 123456
+
+server:
+  port: 5000
